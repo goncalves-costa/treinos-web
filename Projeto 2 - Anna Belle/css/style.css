@@ -1,0 +1,42 @@
+body{
+	background-image: url("../imagens/fundo.png");
+	background-color: #d2d2c1;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+a{
+	color: #4b566a;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 5px;
+}
+
+h2{
+	color: #828271;
+}
+
+
+#principal{
+	width: 900px;
+}
+
+#menu{
+	background-color: #c5c5b2;
+	padding: 18px;
+}
+
+#conteudo{
+	background-color: white;
+	padding: 10px;
+}
+
+#rodape{
+	background-color: #7b7d7d ;
+	padding: 5px;
+	text-align: center;
+	color: white;
+}
+
+.campanhas{
+	border: 10px solid #c3c3ae;
+}
